@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.xml
+*.ipynb
+ai-bot-workspace/
+*.iml
+*.npy
+four_in_a_row/NeuralNetworks/AI_Bot_Version_1/.data-00000-of-00001
+*.xlsx
+*.PNG

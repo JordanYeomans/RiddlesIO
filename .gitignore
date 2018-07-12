@@ -103,7 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 *.xml
-*.ipynb
 ai-bot-workspace/
 *.iml
 *.npy
